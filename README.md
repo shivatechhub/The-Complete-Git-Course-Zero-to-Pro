@@ -1,4 +1,4 @@
-# GIT
+# The Complete Git Course: Zero to Pro
 GIT is version control tool that provides a set of commands to manage the source code. 
 some operations involve. 
 ```
