@@ -1,6 +1,6 @@
 # Module 03 – Working with Remotes
 
-## Git Commands Used
+## Git Commands Used for training on github
 
 ---
 
