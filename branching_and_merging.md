@@ -1,4 +1,4 @@
-# Module 04 – Branching & Merging
+# Module 04 – Branching & Merging to Explain the merge conflict scenario
 
 ## Git Commands Used
 
