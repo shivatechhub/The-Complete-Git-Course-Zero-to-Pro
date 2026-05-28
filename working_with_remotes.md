@@ -1,5 +1,7 @@
 # Module 03 – Working with Remotes
 
+## This is the sample text added to explain the pull concept in git. 
+
 ## Git Commands Used for testing for testing rebasing concept in git
 
 ---
