@@ -1,4 +1,4 @@
-# Module 04 – Branching & Merging
+# Module 04 – Branching & Merging local changes.
 
 ## Git Commands Used
 
