@@ -1,4 +1,5 @@
 # Module 04 – Branching & Merging local changes.
+# Module 04 – Branching & Merging to Explain the merge conflict scenario
 
 ## Git Commands Used
 
