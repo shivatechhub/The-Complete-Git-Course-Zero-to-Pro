@@ -5,7 +5,8 @@
 ### Update Main Branch
 
 ```bash
-git switch main && git pull
+git switch main
+git pull
 ```
 
 ### Create Feature Branch
